@@ -5,7 +5,7 @@
 
 Gitlabs allows you to automate and orchastrate the process of building, testing a deploying code through difffrent enviroments like diffrent cloud regions and cloud providers. 
 
-### Automation
+## Automation
 
 Pipelines automate the process of buidling testing and deploying like mentioned above, automation helps with consistent deployments and lesser manual errors, speeding up the development lifecycle (weekly releases). with Gitlab pipeline and we can define these stages in code form and save them in a gitlab file that is exececuted whenever there is a change in the repository. 
 
@@ -70,8 +70,17 @@ cloudfront-certificate:
   variables:
     STACK_NAME: 
 ```
-### What it would look like in Gitlab Pipeline
+## GUI Gitlab Pipeline
 
 The image show the Pipeline i asked to merge into the development branch that failed, in the picture there are 3 important sections, The Status (1), The Pipeline (2), and The Stages (3). 
 
 ![gitlab screenshot](../../../static/img/Pipelines.png)
+
+
+### The Status
+
+
+### The Pipeline
+
+
+### Stages
