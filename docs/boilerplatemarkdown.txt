@@ -1,0 +1,32 @@
+# Document Title
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Section 1](#section-1)
+  - [Subsection 1.1](#subsection-11)
+  - [Subsection 1.2](#subsection-12)
+- [Section 2](#section-2)
+  - [Subsection 2.1](#subsection-21)
+  - [Subsection 2.2](#subsection-22)
+- [Conclusion](#conclusion)
+
+## Introduction
+
+Briefly introduce the purpose and context of the document. Provide an overview of what readers can expect to find.
+
+## Section 1
+
+### Subsection 1.1
+
+Content for subsection 1.1.
+
+#### Code Example
+
+```python
+def hello_world():
+    print("Hello, World!")
+
+hello_world()
+
+
+![Alt text](path/to/image.jpg)
