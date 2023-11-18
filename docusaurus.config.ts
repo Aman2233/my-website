@@ -1,6 +1,8 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import { FaGithub } from "react-icons/fa";
+
 
 const config: Config = {
   title: 'Amanueal Site ',
@@ -50,65 +52,35 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/social-card.jpg',
     navbar: {
       title: "Amanueal's Site",
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/kitty.png',
       },
       items: [
+        { to: '/about', label: 'About', position: 'right' },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'right',
           label: 'Documents',
         },
-        // { to: '/blog', label: 'Blog', position: 'left' },
+
+        
+        { to: '/blog', label: 'Blog', position: 'right' },
         {
+        
           href: 'https://github.com/Aman2233',
           label: 'GitHub',
           position: 'right',
         },
+        { to: '/contact', label: 'Contact', position: 'right' },
+        
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Files',
-          items: [
-            {
-              label: 'Documentation',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Socials',
-          items: [
-            {
-              label: 'Linkiden',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Amanueal Fasil Mamo, Inc. Built with Docusaurus.`,
-    },
+    
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
