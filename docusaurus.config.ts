@@ -7,7 +7,7 @@ import { FaGithub } from "react-icons/fa";
 const config: Config = {
   title: 'Amanueal ',
   tagline: 'Dinosaurs are cool but cats are cooler',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/kitty.png',
 
   // Set the production url of your site here
   url: 'https://www.amanuealmamo.com',
@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Aman2233/my-website/',
         },
 
         theme: {
