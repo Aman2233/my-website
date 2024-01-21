@@ -5,22 +5,37 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
-import styles from './index.module.css';
+import styles from '../css/custom.css';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <div className="container">
+    <>
       <header className="hero">
-        <div className="avatar">
-          <img className="avatar-img" src="/img/aman.png" alt="Amanueal's Cat Picture" />
+        <div className="container">
+          <div className="avatar">
+            <img className="avatar-img" src="/img/aman.png" alt="Amanueal's Cat Picture" />
+          </div>
+
         </div>
-        <div className="hero__subtitle">
-  
-        </div>
-        
+
       </header>
-    </div>
+
+
+      <div>
+        <h1 className='avatar-title'>Amanueal Fasil Mamo</h1>
+        <p className='avatar-title'> 4th Year student at Flinders University </p>
+        <p className='avatar-title'> Currently doing personal projects to boost my outcomes</p>
+
+
+
+
+      </div>
+
+
+
+
+    </>
   );
 }
 

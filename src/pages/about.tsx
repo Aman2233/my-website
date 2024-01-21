@@ -5,10 +5,14 @@ import Heading from '@theme/Heading';
 
 const about = ({children}) => {
     return (
-        <Layout title="New Page Title">
+        <Layout title="About Me">
           <main>
             {/* Your content for the new page goes here */}
-            <Heading as={'h1'}>New Page Content</Heading>
+            <Heading as={'h1'}> Work </Heading>
+
+            <Heading as={'h1'}> Studies </Heading>
+
+            <Heading as= {'h1'}> Projects </Heading>
           </main>
         </Layout>
       );

@@ -32,15 +32,15 @@
 
 /* Style for the circular avatar image */
 .avatar-img {
-  border-radius: 25%;
-  width: 4%; /* Adjust the width as needed */
-  height: 4%; /* Adjust the height as needed */
+  border-radius: 0%;
+  width: 0%; /* Adjust the width as needed */
+  height: 0%; /* Adjust the height as needed */
   object-fit: cover; /* Maintain aspect ratio and cover the container */
 }
 
 /* Style for the introduction paragraph */
 .hero__subtitle p {
-  margin: 4% 0; /* Add margin around the paragraph */
+  margin: 0% 0; /* Add margin around the paragraph */
   font-size: 18%; /* Adjust the font size as needed */
   color: #333; /* Set the text color */
 }

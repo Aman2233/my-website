@@ -29,4 +29,75 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.hero {
+  overflow: hidden;
+  background-color: inherit;
+  padding-top: 7%;
+}
+
+
+.container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: inherit;
+}
+
+.avatar-img {
+  margin: 0;
+  max-width: 32%;
+  height: auto;
+  border: 14px solid #1a8870;
+  border-radius: 50%;
+  /* Make it a circle */
+
+
+}
+
+.avatar {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.avatar-title {
+  margin-bottom: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.button-homepage {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: var(--ifm-color-primary-dark);
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+
+}
+
+[data-theme='dark'] .button-homepage {
+  background-color: var(--ifm-color-primary-darker); 
+  color: #fff;
+}
+
+.button-homepage:hover{
+  background-color: #1a8870;
+  color: #fff;
+  border-color: #1a8870;
+  text-decoration: none;
+}
+
+.Buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 2%;
+}
 
