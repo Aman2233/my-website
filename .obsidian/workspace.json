@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec60b2ec7fd1b261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Shell/Shell Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "docs/Shell/Shell Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "docs/Shell/Shell Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "docs/Shell/Shell Commands.md"
               }
             }
           }
@@ -148,6 +161,9 @@
   },
   "active": "09c56ff897c817c4",
   "lastOpenFiles": [
+    "Introduction.md",
+    "docs/Shell/Shell Commands.md",
+    "docs/Shell",
     "docs/WebDev-DevOps/Gitlab/Pipelines.md",
     "Screen Shot 2023-11-14 at 1.27.22 am.png"
   ]
