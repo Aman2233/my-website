@@ -22,25 +22,3 @@
   justify-content: center;
 }
 
-.hero {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 20px; /* Adjust the height as needed */
-  background-color: #060606; /* Set a background color if desired */
-}
-
-/* Style for the circular avatar image */
-.avatar-img {
-  border-radius: 0%;
-  width: 0%; /* Adjust the width as needed */
-  height: 0%; /* Adjust the height as needed */
-  object-fit: cover; /* Maintain aspect ratio and cover the container */
-}
-
-/* Style for the introduction paragraph */
-.hero__subtitle p {
-  margin: 0% 0; /* Add margin around the paragraph */
-  font-size: 18%; /* Adjust the font size as needed */
-  color: #333; /* Set the text color */
-}

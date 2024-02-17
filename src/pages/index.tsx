@@ -25,7 +25,7 @@ function HomepageHeader() {
       <div>
         <h1 className='avatar-title'>Amanueal Fasil Mamo</h1>
         <p className='avatar-title'> 4th Year student at Flinders University </p>
-        <p className='avatar-title'> Currently doing personal projects to boost my outcomes</p>
+        <p className='avatar-title'> Hi testing</p>
 
 
 
