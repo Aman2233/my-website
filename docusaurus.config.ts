@@ -67,9 +67,7 @@ const config: Config = {
           position: 'right',
           label: 'Documents',
         },
-
         
-        { to: '/blog', label: 'Blog', position: 'right' },
         {
         
           href: 'https://github.com/Aman2233',
