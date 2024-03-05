@@ -1,16 +1,8 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Introduction.md                                    :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: amamo <marvin@42.fr>                       +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/03/05 16:29:54 by amamo             #+#    #+#              #
-#    Updated: 2024/03/05 16:38:02 by amamo            ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
+---
+sidebar_position: 1
+---
 
-###Introduction
+# Introduction
 
 I have spent my time in university and personal time trying out diffrent programming languages.
 I have now come to realise that i have not mastered programming or atleast gotten close to being "good".
