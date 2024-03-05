@@ -12,7 +12,7 @@ Why do we need it ?
 when you have a large program you would want to make a .o file
 then link all these files to make your final program. 
 
-yes you just use cc -FLAGS <file1> <file2> -o exe
+yes you just use cc -FLAGS "file1" "file2" -o exe
 
 but what happens when you have n files ? and you make a syntax
 error on the first file ? 
