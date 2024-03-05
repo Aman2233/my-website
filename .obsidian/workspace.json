@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Shell/Shell Commands.md",
+                "file": "docs/WebDev-DevOps/Gitlab/Pipelines.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Shell/Shell Commands.md",
+                "file": "docs/WebDev-DevOps/Gitlab/Pipelines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Shell/Shell Commands.md",
+                "file": "docs/WebDev-DevOps/Gitlab/Pipelines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Shell/Shell Commands.md"
+                "file": "docs/WebDev-DevOps/Gitlab/Pipelines.md"
               }
             }
           }
@@ -161,10 +161,50 @@
   },
   "active": "09c56ff897c817c4",
   "lastOpenFiles": [
-    "Introduction.md",
-    "docs/Shell/Shell Commands.md",
-    "docs/Shell",
-    "docs/WebDev-DevOps/Gitlab/Pipelines.md",
-    "Screen Shot 2023-11-14 at 1.27.22 am.png"
+    "docs/Programming/introduction.md",
+    "docs/Programming/headers.md",
+    "docs/Programming/introduction.mdx",
+    "docs/Programming/headers.mdx",
+    "node_modules/react-icons/lib/esm/index.d.ts",
+    "node_modules/react-icons/lib/cjs/index.d.ts",
+    "node_modules/react-icons/index.d.ts",
+    "node_modules/react-icons/lib/esm/iconsManifest.d.ts",
+    "node_modules/react-icons/lib/cjs/iconsManifest.d.ts",
+    "node_modules/react-icons/lib/esm/iconContext.d.ts",
+    "node_modules/react-icons/lib/cjs/iconContext.d.ts",
+    "node_modules/react-icons/lib/esm/iconBase.d.ts",
+    "node_modules/react-icons/README.md",
+    "node_modules/core-js/README.md",
+    "node_modules/core-js-pure/README.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/rxjs/README.md",
+    "node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "node_modules/rxjs/CHANGELOG.md",
+    "node_modules/lodash/release.md",
+    "node_modules/lodash/README.md",
+    "node_modules/webpack/SECURITY.md",
+    "node_modules/webpack/README.md",
+    "node_modules/caniuse-lite/README.md",
+    "node_modules/@docusaurus/theme-classic/README.md",
+    "node_modules/prismjs/README.md",
+    "node_modules/prismjs/CHANGELOG.md",
+    "node_modules/core-js-pure/modules/README.md",
+    "node_modules/core-js/modules/README.md",
+    "node_modules/core-js/web/README.md",
+    "node_modules/core-js-pure/web/README.md",
+    "node_modules/regenerate-unicode-properties/README.md",
+    "node_modules/ajv/README.md",
+    "node_modules/react-dom/README.md",
+    "node_modules/renderkid/docs/images/usage.png",
+    "node_modules/renderkid/docs/images/display.png",
+    "node_modules/renderkid/docs/images/bullets-1.png",
+    "node_modules/@docusaurus/logger/demo.png",
+    "node_modules/detect-port-alt/logo.png",
+    "node_modules/serve-index/public/icons/page_world.png",
+    "node_modules/serve-index/public/icons/page_word.png",
+    "node_modules/serve-index/public/icons/page_white_zip.png",
+    "node_modules/serve-index/public/icons/page_white_wrench.png",
+    "node_modules/serve-index/public/icons/page_white_world.png"
   ]
 }
