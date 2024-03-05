@@ -7,12 +7,15 @@ sidebar_position: 2
 
 'stdio.h' is a basically a header “Library”
 
-When your code is compiled it goes through compile stages, it is first compiled turned into a object file then the linker:
-takes all the object files and turns them into a executable or a library file. 
+When your code is compiled it goes through compile stages, it is first 
+compiled turned into a object file then the linker takes all the object 
+files and turns them into a executable or a library file. 
 
-Now looking into a declared addition program made with a header file and a separate function file. 
+Now looking into a declared addition program made with a 
+header file anda separate function file. 
 
-We have our main program that looks prints hello world and adds sends two numbers 3 & 7 to the ft_add() function:
+We have our main program that looks prints hello world 
+and adds sends two numbers 3 & 7 to the ft_add() function:
 
 ```c
 file: main .c
@@ -39,8 +42,10 @@ int ft_add(int a, int b)
 }
 ```
 
-but now we need to create a header file to be able to comple these two as one without having to add the fuction definition in the main function:
-to do that we create a header.h file which then allows us to define all our functions. 
+but now we need to create a header file to be able to comple 
+these two as one without having to add the fuction definition in 
+the main function to do that we create a header.h file which then 
+allows us to define all our functions. 
 
 ```c
 file: header.h
@@ -60,12 +65,14 @@ file: header.h
 ^
 |
 |
-what ever is defined between the #ifndef and #endif will be included in compiling, and linking:
+what ever is defined between the #ifndef and #endif 
+will be included in compiling, and linking:
 |
 |
 V
 #endif
 
-there should be a successful output, you might see a .h.gch file which enables gcc to compile faster nothign to be worried about. 
+there should be a successful output, you might see a .h.gch file which enables gcc 
+to compile faster nothign to be worried about. 
 
 ```
